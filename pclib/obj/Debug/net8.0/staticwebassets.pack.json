@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/declan/Devel/myrepos/pclib/pclib/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.pclib.props",
+      "PackagePath": "build\\pclib.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.pclib.props",
+      "PackagePath": "buildMultiTargeting\\pclib.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.pclib.props",
+      "PackagePath": "buildTransitive\\pclib.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.pclib.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
